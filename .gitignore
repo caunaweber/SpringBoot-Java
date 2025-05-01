@@ -49,3 +49,4 @@ Thumbs.db
 # Spring Boot devtools
 spring-boot-devtools-*.jar
 
+src/main/resources/application.properties
